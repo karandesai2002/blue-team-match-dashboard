@@ -4,6 +4,20 @@ This project turns a full match into a clean, decision-ready **Blue Team match d
 
 The dashboard itself was designed in **Canva** and exported as PDF/PNG.
 
+## Preview
+
+### Blue Team Match Dashboard (final)
+
+![Blue Team Match Dashboard](Karan%20Desai%20submission-Blue%20Team%20Match%20Dashboard.png)
+
+### Tagging Panel (In-Play Sports)
+
+![Tagging Panel (In-Play Sports)](Tagging%20Panel%20In-Play%20Sports.png)
+
+### Stats Matrix (In-Play Sports)
+
+![Stats Matrix (In-Play Sports)](Stats%20Matrix%20In-Play%20Sports.png)
+
 ## What you’ll find in this repo
 
 ### 1) Blue Team Match Dashboard (final deliverable)

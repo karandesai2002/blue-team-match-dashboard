@@ -1,4 +1,4 @@
-# Blue Team Match Dashboard (Football Video Analytics)
+# Football Video Analytics: Blue Team Match Dashboard
 
 This project turns a full match into a clean, decision-ready **Blue Team match dashboard**: event tagging → structured stats matrix → custom metrics + visuals → final dashboard deliverable.
 

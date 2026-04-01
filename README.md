@@ -1,42 +1,46 @@
 # Blue Team Match Dashboard (Football Video Analytics)
 
-End-to-end football match analysis project: tagged match events, built a stats matrix + custom metrics, created visualizations in Python, and delivered a final match dashboard (designed in **Canva**).
+This project turns a full match into a clean, decision-ready **Blue Team match dashboard**: event tagging → structured stats matrix → custom metrics + visuals → final dashboard deliverable.
 
-## What’s included
+The dashboard itself was designed in **Canva** and exported as PDF/PNG.
 
-- **Final dashboard (Canva export)**  
-  - `Karan Desai submission-Blue Team Match Dashboard.pdf`  
-  - `Karan Desai submission-Blue Team Match Dashboard.png`
-- **Stats Matrix + Tagging Panel (workflow screenshots)**  
-  - `Stats Matrix In-Play Sports.png`  
-  - `Tagging Panel In-Play Sports.png`
-- **Workflow overview**  
-  - `Workflow.png`
-- **Cleaned dataset (CSV)**  
-  - `Cleaned dataset Kanso Analytics Competition.csv`
-- **Data visualization notebook** (generates the included PNG charts)  
-  - `Data_Visualizations_for_Match_Comparision_Stats.ipynb`
-- **Visualization outputs (PNG)**  
-  - `1. volume balance.png`  
-  - `2. Restart & Delivery Retention.png`  
-  - `3. shot_donut_comparison.png`  
-  - `4. Core Action Efficiency.png`
+## What you’ll find in this repo
 
-## Workflow (high level)
+### 1) Blue Team Match Dashboard (final deliverable)
 
-From `Workflow.png`:
+- `Karan Desai submission-Blue Team Match Dashboard.pdf` (best to view)
+- `Karan Desai submission-Blue Team Match Dashboard.png`
 
-- Full match footage
-- Video tagging, labelling, and annotation in In-Play Sports
-- Stats matrix and event data collection
-- Creation of custom football metrics
-- Delivering a final match dashboard and insights
+### 2) Tagging Panel (how events were captured)
 
-## Quickstart (view the deliverables)
+- `Tagging Panel In-Play Sports.png`
 
-- Open the **dashboard**: `Karan Desai submission-Blue Team Match Dashboard.pdf` (recommended)  
-- View the **charts**: open the PNG files listed above
-- Review the **dataset**: open `Cleaned dataset Kanso Analytics Competition.csv`
+### 3) Stats Matrix (what the tagged events became)
+
+- `Stats Matrix In-Play Sports.png`
+
+### 4) Cleaned dataset (CSV)
+
+- `Cleaned dataset Kanso Analytics Competition.csv`
+
+### 5) Data visualization notebook (Python)
+
+- `Data_Visualizations_for_Match_Comparision_Stats.ipynb`
+
+## Workflow (explained)
+
+- **Start with full match footage** and decide what you want to measure (possession patterns, ball-winning, restarts, delivery, shot quality, etc.)
+- **Tag events in In-Play Sports** (label + annotate actions throughout the game)
+- **Convert tags into a stats matrix** so each event becomes structured, countable data
+- **Engineer custom metrics** (success rates, retention, efficiency comparisons, shot profile, etc.)
+- **Visualize and summarize** the key differences between teams in Python
+- **Deliver the dashboard** (final narrative + insights, designed in Canva)
+
+## Quickstart
+
+- **Read the dashboard**: open `Karan Desai submission-Blue Team Match Dashboard.pdf`
+- **See the tagging + stats pipeline**: open `Tagging Panel In-Play Sports.png` and `Stats Matrix In-Play Sports.png`
+- **Inspect the cleaned data**: open `Cleaned dataset Kanso Analytics Competition.csv`
 
 ## Run the notebook locally (optional)
 

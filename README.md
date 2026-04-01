@@ -2,6 +2,8 @@
 
 This project turns a full match into a clean, decision-ready **Blue Team match dashboard**: event tagging → structured stats matrix → custom metrics + visuals → final dashboard deliverable.
 
+This dashboard was meant to **find and analyse the Blue Team’s strengths and weaknesses** from match video and event data.
+
 The dashboard itself was designed in **Canva** and exported as PDF/PNG.
 
 ## Preview
